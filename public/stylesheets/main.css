@@ -1,3 +1,35 @@
 body {
-  padding-top: 70px;  /* Move body of page below navbar. */
+  color: #999;
+  font-family: "Open Sans";
+  background: grey;
+}
+
+.nav {
+  background-color: #710C0C;
+  color: #999;
+  font-family: "Open Sans";
+
+}
+
+.navbar-nav > li > a {
+  color: #999;
+  font-family: "Open Sans";
+  font-size: 16pt;
+}
+
+.well {
+  background-color: #710C0C;
+  color: #999;
+  font-family: "Open Sans";
+}
+
+.well p {
+  text-align: center;
+}
+
+#knight {
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
